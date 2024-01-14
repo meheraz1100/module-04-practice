@@ -1,0 +1,30 @@
+HTML history
+
+first release(HTML-1) => 1993
+second release(HTML-2) => 1995
+third release(HTML-3) => 1997
+fourth release(HTML-4) => 1999
+fourth(small update) release(HTML-4.01) => 2012
+fifth release(HTML-5) => 2014
+
+HTML 5 some tags
+1. audio
+2. canvas
+3. command
+4. datalist
+5. details
+6. embed
+7. video
+8. date
+9. datetime-local
+10. datetime
+11. email
+12. month
+13. number
+14. range
+15. header
+16. main
+17. article
+18. nav
+19. aside
+20. footer
